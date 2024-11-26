@@ -110,3 +110,12 @@ header{
 #footer {
   font-size: 15px;
 }
+
+#anl_diagrams {
+  display: flex;
+  gap: 20px;
+}
+
+.anl {
+  width: 200px;
+}
